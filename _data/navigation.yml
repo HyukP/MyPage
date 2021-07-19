@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "편동혁 소개"
+    url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
